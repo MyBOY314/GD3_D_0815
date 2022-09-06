@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Ubah Title pada App Bar Aplikasi
+        //Tambah
         setTitle("User Login")
 
         // Hubungkan variabel dengan vieq di layoutnya.
